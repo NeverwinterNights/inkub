@@ -39,7 +39,7 @@ button.addEventListener("click", function () {
 
 function superSum(a, b) {
   delay(() => {
-    alert(a * b);
+    alert(a + b);
   });
 }
 
